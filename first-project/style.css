@@ -1,0 +1,67 @@
+h1 {
+	font-weight: 500px;
+	font-size: 60px;
+	width: 1500px;
+	height: 125px;
+	position: relative;
+	left: 300px;
+	color: rgb(43, 43, 43);
+	font-family: Franklin Gothic Medium;
+}
+
+p {
+	font-size: 23px;
+	width: 1500px;
+	font-weight: 50;
+	height: 90px;
+	position: relative;
+	left: 300px;
+	color: rgb(81, 81, 81);
+	font-family: Franklin Gothic Medium;
+}
+img {
+	width: 1800px;
+	height: 700px;
+	margin-left: 300px;
+}
+h2 {
+	font-weight: 500px;
+	font-size: 50px;
+	width: 700px;
+	height: 80 px;
+	position: relative;
+	left: 300px;
+	color: rgb(43, 43, 43);
+	font-family: Franklin Gothic Medium;
+}
+li {
+	color: blue;
+	font-size: 20px;
+	font-size: 23px;
+	width: 1500px;
+	font-weight: 50;
+	height: 50px;
+	position: relative;
+	left: 280px;
+	color: rgb(81, 81, 81);
+	font-family: Franklin Gothic Medium;
+}
+li::marker {
+	color: rgb(0, 153, 255);
+	font-size: 35px;
+}
+h3 {
+	font-weight: 500px;
+	font-size: 50px;
+	width: 700px;
+	height: 80 px;
+	position: relative;
+	left: 300px;
+	color: rgb(43, 43, 43);
+	font-family: Franklin Gothic Medium;
+}
+video {
+	width: 1800px;
+	height: 700px;
+	margin-left: 300px;
+}
